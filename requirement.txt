@@ -1,0 +1,12 @@
+streamlit
+langchain
+chromadb
+sentence-transformers
+tqdm
+pdfplumber
+python-multipart
+requests
+python-dotenv
+langchain-community
+pandas  
+groq
